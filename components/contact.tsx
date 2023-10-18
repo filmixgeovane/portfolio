@@ -6,7 +6,7 @@ import SectionHeading from "./section-heading";
 import { motion } from "framer-motion";
 import { useSectionInView } from "@/lib/hooks";
 import { sendEmail } from "@/actions/sendEmail";
-import zapImg from "@/public/zapImg.PNG";
+import zapImg from "@/public/zapImg.png";
 import SubmitBtn from "./submit-btn";
 import toast from "react-hot-toast";
 
