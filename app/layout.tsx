@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Geovane Costa | Portfolio",
-  description: "Geovane Costa é um desenvolvedor full stack / devops.",
+  description: "Geovane Costa é um desenvolvedor full stack / devops .",
 };
 
 export default function RootLayout({
